@@ -36,6 +36,7 @@ pengulangan()
 
 begini lah programnya,di program ini sudah terlihat alurnya gimana
 sekian dan terimakasih
+![ssprogram1](https://user-images.githubusercontent.com/43899133/52514547-5875ee00-2c45-11e9-9489-4281cfc79df1.jpg)
 
 
 
