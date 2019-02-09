@@ -1,7 +1,5 @@
 # Labpy1
 
-# Labpy1
-
 Program mencari bilangan terbesar dari 3 buah bilangan 
 
 Alur algoritmanya adalah dengan medefinisikan perulangan dengan mengetik (def pengulangan():)
@@ -42,5 +40,5 @@ sekian dan terimakasih
 
 
 Ini screenshot hasil program tersebut
-![ssprogram1](https://user-images.githubusercontent.com/44311815/52457632-e8724580-2b28-11e9-9921-e1b6f2d1822b.png)
+
 
